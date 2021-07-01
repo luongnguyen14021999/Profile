@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e7f6b98-8138-4441-a079-5743ca554bb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/ansar.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/forms/contact.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
   <component name="ProjectId" id="1uhsL4n7DuZY3uuve0dvv1W8sRz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -68,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625129095275</updated>
-      <workItem from="1625129096673" duration="2597000" />
+      <workItem from="1625129096673" duration="3711000" />
     </task>
     <servers />
   </component>
@@ -76,6 +77,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1313" y="331" key="#PHP" timestamp="1625132165229">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1313" y="331" key="#PHP/0.23.2560.1364@0.23.2560.1364" timestamp="1625132165229" />
     <state x="1349" y="523" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1625130110579">
       <screen x="0" y="23" width="2560" height="1364" />
     </state>
