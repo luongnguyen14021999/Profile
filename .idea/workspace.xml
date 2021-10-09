@@ -53,11 +53,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -124,7 +124,7 @@
       <workItem from="1626954493685" duration="75000" />
       <workItem from="1633781713736" duration="749000" />
       <workItem from="1633782507565" duration="920000" />
-      <workItem from="1633784045176" duration="252000" />
+      <workItem from="1633784045176" duration="748000" />
     </task>
     <servers />
   </component>
