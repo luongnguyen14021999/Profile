@@ -4,7 +4,6 @@
     <list default="true" id="5e7f6b98-8138-4441-a079-5743ca554bb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-details.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +115,8 @@
       <workItem from="1626750608878" duration="57000" />
       <workItem from="1626952311770" duration="1461000" />
       <workItem from="1626954493685" duration="75000" />
-      <workItem from="1633781713736" duration="312000" />
+      <workItem from="1633781713736" duration="749000" />
+      <workItem from="1633782507565" duration="592000" />
     </task>
     <servers />
   </component>
@@ -140,10 +140,10 @@
     <state x="762" y="392" key="NewPhpFileDialog/0.23.1440.835@0.23.1440.835" timestamp="1625211820133" />
     <state x="762" y="392" key="NewPhpFileDialog/0.23.1440.836@0.23.1440.836" timestamp="1625214221521" />
     <state x="1355" y="626" key="NewPhpFileDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1625148744842" />
-    <state x="964" y="529" key="SettingsEditor" timestamp="1633781730742">
+    <state x="964" y="529" key="SettingsEditor" timestamp="1633782528298">
       <screen x="0" y="23" width="2560" height="1364" />
     </state>
-    <state x="964" y="529" key="SettingsEditor/0.23.2560.1364@0.23.2560.1364" timestamp="1633781730742" />
+    <state x="964" y="529" key="SettingsEditor/0.23.2560.1364@0.23.2560.1364" timestamp="1633782528298" />
     <state x="1110" y="722" key="com.intellij.ide.util.TipDialog" timestamp="1633781714539">
       <screen x="0" y="23" width="2560" height="1364" />
     </state>
