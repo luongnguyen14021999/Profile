@@ -6,6 +6,15 @@ class Game {
     setup() {
         this.initSize();
         this.initScenes();
+        window.onresize = function() {
+            const el = $('#app');
+            style(
+                el, {
+                    width: window.outerWidth + 'px',
+                    height: window.outerHeight + 'px',
+                }
+            );
+        };
     }
 
     initData() {
