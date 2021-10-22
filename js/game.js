@@ -1,11 +1,6 @@
 class Game {
     constructor() {
         this.setup();
-    }
-
-    setup() {
-        this.initSize();
-        this.initScenes();
         window.onresize = function() {
             const el = $('#app');
             style(
@@ -15,6 +10,11 @@ class Game {
                 }
             );
         };
+    }
+
+    setup() {
+        this.initSize();
+        this.initScenes();
     }
 
     initData() {

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5e7f6b98-8138-4441-a079-5743ca554bb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game.html" beforeDir="false" afterPath="$PROJECT_DIR$/game.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/game.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,6 +120,8 @@
       <workItem from="1633784045176" duration="942000" />
       <workItem from="1633785609768" duration="1200000" />
       <workItem from="1634828153454" duration="72000" />
+      <workItem from="1634828245462" duration="618000" />
+      <workItem from="1634872532783" duration="632000" />
     </task>
     <servers />
   </component>
@@ -128,33 +129,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1303" y="326" key="#Project_Structure" timestamp="1625146855407">
-      <screen x="0" y="23" width="2560" height="1364" />
-    </state>
-    <state x="1303" y="326" key="#Project_Structure/0.23.2560.1364@0.23.2560.1364" timestamp="1625146855407" />
     <state x="1349" y="523" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1626952979057">
       <screen x="0" y="23" width="2560" height="1364" />
     </state>
-    <state x="759" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.835@0.23.1440.835" timestamp="1625211780437" />
-    <state x="759" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.836@0.23.1440.836" timestamp="1625214377569" />
     <state x="1349" y="523" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1626952979057" />
-    <state x="762" y="392" key="NewPhpFileDialog" timestamp="1625214221521">
-      <screen x="0" y="23" width="1440" height="836" />
-    </state>
-    <state x="762" y="392" key="NewPhpFileDialog/0.23.1440.835@0.23.1440.835" timestamp="1625211820133" />
-    <state x="762" y="392" key="NewPhpFileDialog/0.23.1440.836@0.23.1440.836" timestamp="1625214221521" />
-    <state x="1355" y="626" key="NewPhpFileDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1625148744842" />
     <state x="964" y="529" key="SettingsEditor" timestamp="1633785661349">
       <screen x="0" y="23" width="2560" height="1364" />
     </state>
     <state x="964" y="529" key="SettingsEditor/0.23.2560.1364@0.23.2560.1364" timestamp="1633785661349" />
-    <state x="1110" y="722" key="com.intellij.ide.util.TipDialog" timestamp="1633781714539">
+    <state x="1110" y="722" key="com.intellij.ide.util.TipDialog" timestamp="1634889959495">
       <screen x="0" y="23" width="2560" height="1364" />
     </state>
-    <state x="1110" y="722" key="com.intellij.ide.util.TipDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1633781714539" />
-    <state x="1132" y="387" key="new project wizard" timestamp="1625146876162">
-      <screen x="0" y="23" width="2560" height="1364" />
-    </state>
-    <state x="1132" y="387" key="new project wizard/0.23.2560.1364@0.23.2560.1364" timestamp="1625146876162" />
+    <state x="1110" y="722" key="com.intellij.ide.util.TipDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1634889959495" />
   </component>
 </project>

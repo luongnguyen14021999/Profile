@@ -64,8 +64,8 @@ const fps = 60;
     // config
 
     config.game = {
-        w: 960,
-        h: 480,
+        w: window.outerWidth,
+        h: window.innerHeight,
         fontSize : {
             min : 12,
             max : 30,
