@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e7f6b98-8138-4441-a079-5743ca554bb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2002.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/myJs.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/myJs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hbd.mp3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +52,8 @@
       <recent name="$PROJECT_DIR$/assets/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/img" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -124,7 +125,7 @@
       <workItem from="1634872532783" duration="632000" />
       <workItem from="1634889959440" duration="242000" />
       <workItem from="1638956853218" duration="23000" />
-      <workItem from="1638956909568" duration="1076000" />
+      <workItem from="1638956909568" duration="1810000" />
     </task>
     <servers />
   </component>
@@ -132,10 +133,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="969" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1638956998249">
+    <state x="1390" y="663" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1638959669496">
       <screen x="0" y="23" width="2560" height="1369" />
     </state>
-    <state x="969" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1369@0.23.2560.1369" timestamp="1638956998249" />
+    <state x="1390" y="663" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1369@0.23.2560.1369" timestamp="1638959669496" />
+    <state x="969" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1638959526840">
+      <screen x="0" y="23" width="2560" height="1369" />
+    </state>
+    <state x="969" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1369@0.23.2560.1369" timestamp="1638959526840" />
     <state x="964" y="529" key="SettingsEditor" timestamp="1633785661349">
       <screen x="0" y="23" width="2560" height="1364" />
     </state>

@@ -31,7 +31,7 @@ $('document').ready(function(){
 		});
 	});
 	$('#play').click(function(){
-		var audio = $('.song')[0];
+		var audio = new Audio("2002.mp3");
         audio.play();
         $('#bulb_yellow').addClass('bulb-glow-yellow-after');
 		$('#bulb_red').addClass('bulb-glow-red-after');
