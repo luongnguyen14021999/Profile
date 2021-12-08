@@ -202,7 +202,7 @@ $('document').ready(function(){
 			});
 		}
 		msgLoop(0);
-		$(this).fadeOut('slow').delay(10000).promise().done(function(){
+		$(this).fadeOut('slow').delay(13000).promise().done(function(){
 			$('#questions').fadeIn('slow');
 		});
 	});
