@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e7f6b98-8138-4441-a079-5743ca554bb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2002.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/effect.js" beforeDir="false" afterPath="$PROJECT_DIR$/effect.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hbd.mp3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +124,7 @@
       <workItem from="1634872532783" duration="632000" />
       <workItem from="1634889959440" duration="242000" />
       <workItem from="1638956853218" duration="23000" />
-      <workItem from="1638956909568" duration="2075000" />
+      <workItem from="1638956909568" duration="2365000" />
     </task>
     <servers />
   </component>
