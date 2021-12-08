@@ -2,8 +2,286 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e7f6b98-8138-4441-a079-5743ca554bb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Balloon-Border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bulb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bulb_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bulb_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bulb_orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bulb_pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bulb_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bulb_yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cake.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cake128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/spinload.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/effect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbd.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cuteCat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/input-bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/iput-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/puung2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/puung3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/myJs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sound/Swish1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sound/baby.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sound/duck.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sound/sound.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sound/tick.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uggreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vine.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/ansar.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/counters-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/face.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/image3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/intro-bg - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/intro-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/intro.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/kanav.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/overlay-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio-details-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio-details-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio-details-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sydney.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/testimonial-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/testimonial-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/work-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/work-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/work-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/work-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/work-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/work-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/counterup/jquery.counterup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/counterup/jquery.counterup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/font-awesome/css/font-awesome.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/ionicons/css/ionicons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/ionicons/css/ionicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/ionicons/fonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/ionicons/fonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/ionicons/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/ionicons/fonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/jquery.easing/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/owl.carousel/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/owl.carousel/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/owl.carousel/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/owl.carousel/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/owl.carousel/assets/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/owl.carousel/assets/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/owl.carousel/assets/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/owl.carousel/assets/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/owl.carousel/assets/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/owl.carousel/assets/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/owl.carousel/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/owl.carousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/php-email-form/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/typed.js/typed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/typed.js/typed.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/typed.js/typed.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/venobox/venobox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/venobox/venobox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/venobox/venobox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/venobox/venobox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/waypoints/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dino.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form_contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/a+.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/a-.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/boom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/enemyBullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/fuel2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/meteorites/meteorites_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/meteorites/meteorites_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/meteorites/meteorites_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/meteorites/meteorites_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mute.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/plane/enemy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/plane/friend.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/plane/player.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/playerBullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/score.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/speaker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/star/star_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/star/star_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/star/star_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/star/star_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/star/star_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/star/star_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/star/star_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/star/star_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/star/star_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/star/star_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/star/star_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/star/star_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/time3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/Exception.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/PHPMailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/SMTP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class/animation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class/bullet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class/cooldown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class/enemy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class/friend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class/fuel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class/meteorite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class/plane.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class/player.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class/scene.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/class/star.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/config/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scenes/over.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scenes/play.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scenes/rank.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scenes/start.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/utils/res.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/utils/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound/background.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound/destroyed.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound/shoot.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/platform_check.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/COMMITMENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/SECURITY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/VERSION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/get_oauth_token.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-af.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ba.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ch.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-cs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-da.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-mg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-nb.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt_br.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr_latn.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sv.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-tl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/phpunit.xml.dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/src/Exception.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/src/OAuth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/src/PHPMailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/src/POP3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/src/SMTP.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +400,9 @@
       <workItem from="1634828153454" duration="72000" />
       <workItem from="1634828245462" duration="618000" />
       <workItem from="1634872532783" duration="632000" />
+      <workItem from="1634889959440" duration="242000" />
+      <workItem from="1638956853218" duration="23000" />
+      <workItem from="1638956909568" duration="302000" />
     </task>
     <servers />
   </component>
@@ -129,10 +410,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1349" y="523" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1626952979057">
-      <screen x="0" y="23" width="2560" height="1364" />
+    <state x="969" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1638956998249">
+      <screen x="0" y="23" width="2560" height="1369" />
     </state>
-    <state x="1349" y="523" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1626952979057" />
+    <state x="969" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1369@0.23.2560.1369" timestamp="1638956998249" />
     <state x="964" y="529" key="SettingsEditor" timestamp="1633785661349">
       <screen x="0" y="23" width="2560" height="1364" />
     </state>
